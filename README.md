@@ -1,4 +1,4 @@
-# Springboot-JPA-Blog <br>  
+# JBJ BLOG <br>  
 스프링 부트 버전 2.3.2 <br>
 자바 버전 8 <br>
 템플릿 엔진 JSP <br>
