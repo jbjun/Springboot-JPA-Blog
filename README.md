@@ -6,8 +6,8 @@
 -lombok <br>
 -spring JPA <br>
 DB<br>
--mysq <br>
+-mysql <br>
 구현 내용 <br>
--블로그 + 스프<br>링 시큐리티 로그인 + (추가 예정)OAuth2 Client 카카오 로그인 <br>
+-블로그 + 스프링 시큐리티 로그인 + (추가 예정)OAuth2 Client 카카오 로그인 <br>
 Json통신 <br>
-- query이용(ajax요청) <br>
+-query이용(ajax요청) <br>
