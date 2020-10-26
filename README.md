@@ -7,8 +7,8 @@
 -spring JPA <br>
 DB<br>
 -mysql <br>
+Json통신 <br>
+-query이용(ajax요청) <br>
 구현 내용 <br>
 -회원가입, 글 쓰기, 수정 , 삭제 (수정, 삭제는 본인 글만) <br>
 -스프링 시큐리티 로그인 + (추가 예정)OAuth2 Client 카카오 로그인 <br>
-Json통신 <br>
--query이용(ajax요청) <br>
