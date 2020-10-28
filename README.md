@@ -16,7 +16,7 @@ Json통신 <br>
 <img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png"><br>
 <h3>로그인, 회원가입</h3><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426190-72de8680-1956-11eb-80c1-0859bbdf95e2.png" width="200" height="200">
-<img src="https://user-images.githubusercontent.com/61040284/97426193-73771d00-1956-11eb-8fa2-c023502c15c6.png width="200" height="200"> <br>
+<img src="https://user-images.githubusercontent.com/61040284/97427498-fcdb1f00-1957-11eb-9f2a-e31c4dd5ad7b.png" width="200" height="200"> <br>
 <h3>게시판</h3><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426200-7540e080-1956-11eb-8644-859e18fc43ed.png"><br>
 <h3>글수정</h3><br>
