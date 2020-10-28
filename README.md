@@ -11,7 +11,7 @@ Json통신 <br>
 -query이용(ajax요청) <br>
 구현 내용 <br>
 -회원가입, 글 쓰기, 수정 , 삭제 (수정, 삭제는 본인 글만) <br>
--스프링 시큐리티 로그인 + (추가 예정)OAuth2 Client 카카오 로그인 <br>
+-스프링 시큐리티 로그인 (로그인 안되면 글쓰기 기능 X 로그인 페이지로 이동)<br>
 <h3>메인화면</h3><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png"><br>
 <h3>로그인, 회원가입</h3><br>
