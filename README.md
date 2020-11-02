@@ -46,8 +46,9 @@
      Content-type: application/x-www-form-urlencoded;charset=utf-8<br><br>
 <h4>메인화면</h4><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png"><br>
-<h4>로그인, 회원가입</h4><br>
+<h4>로그인, 카카오로그인, 회원가입</h4><br>
 <img src="https://user-images.githubusercontent.com/61040284/97847956-be68aa00-1d33-11eb-8840-ccfed98c57cb.png" width="400" height="150">
+<img src="https://user-images.githubusercontent.com/61040284/97848130-f7a11a00-1d33-11eb-8b35-63162888c14e.png" width="400" height="150">
 <img src="https://user-images.githubusercontent.com/61040284/97427498-fcdb1f00-1957-11eb-9f2a-e31c4dd5ad7b.png" width="400" height="150"> <br>
 <h4>게시판</h4><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426200-7540e080-1956-11eb-8644-859e18fc43ed.png"><br>
