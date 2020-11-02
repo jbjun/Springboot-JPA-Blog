@@ -1,7 +1,7 @@
 # JBJ BLOG <br>  
-<h4><b>스프링 부트 버전 2.3.2</b></h4> <br>
-<h4><b>자바 버전 8</b></h4> <br>
-템플릿 엔진 JSP <br>
+<b>스프링 부트 버전 2.3.2</b><br>
+<b>자바 버전 8</b><br>
+<b>템플릿 엔진 JSP</b> <br>
 의존성 <br>
 -lombok <br>
 -spring JPA <br>
