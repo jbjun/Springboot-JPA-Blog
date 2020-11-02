@@ -11,11 +11,11 @@
 <b>Json통신</b> <br>
 -query이용(ajax요청) <br>
 <h3>구현 내용</h3> <br>
-<b>회원가입, 글 쓰기, 수정 , 회원정보변경, 삭제 (수정, 삭제는 본인 글만)</b> <br>
+<b>회원가입, 글 쓰기, 수정 , 회원정보변경, 삭제 (수정, 삭제는 본인 글만)</b> <br><br>
 <b>스프링 시큐리티 로그인</b><br>
      -로그인 안되면 글쓰기 기능 X 로그인 페이지로 이동<br>
      -비밀번호 암호화<br>
-     -회원수정 시 강제 세션 부여 <br>
+     -회원수정 시 강제 세션 부여 <br><br>
 <b>카카오 로그인 Oauth(라이브러리 사용 안하고 직접 구현)</b><br>
      -회원 정보 변경 불가<br>
      -카카오 로그인인지 db에 표시<br>
@@ -43,7 +43,7 @@
      요청 주소 : https;//kapi.kakao.com/v2/user/me<br>
      헤더 값<br>
      Authorization: Bearer {ACCESS_TOKEN}<br>
-     Content-type: application/x-www-form-urlencoded;charset=utf-8<br>
+     Content-type: application/x-www-form-urlencoded;charset=utf-8<br><br>
 <h4>메인화면</h4><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png"><br>
 <h4>로그인, 회원가입</h4><br>
