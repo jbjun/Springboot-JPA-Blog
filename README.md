@@ -1,6 +1,6 @@
 # JBJ BLOG <br>  
 <h4><b>스프링 부트 버전 2.3.2</b></h4> <br>
-자바 버전 8 <br>
+<h4><b>자바 버전 8</b></h4> <br>
 템플릿 엔진 JSP <br>
 의존성 <br>
 -lombok <br>
