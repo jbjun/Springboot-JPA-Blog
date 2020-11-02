@@ -23,7 +23,6 @@ public class HttpControllerTest {
 	}
 	
 	//http://localhost:8090/blog/http/get(select)
-	
 	@GetMapping("/http/get")	
 	public String getTest(Member m) {//id=1&username=ssar&password=1234&email=ssar@nate.com
 		return "get 요청 :" +m.getId()+","+m.getUsername()+","+m.getPassword()+","+m.getEmail();

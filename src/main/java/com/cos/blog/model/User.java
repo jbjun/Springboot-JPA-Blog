@@ -31,10 +31,10 @@ public class User {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;// 시퀸스. auto_increment
 	
-	@Column(nullable = false, length = 30)
+	@Column(nullable = false, length = 100, unique=true)
 	private String username;
 	
-	@Column(nullable = false, length = 100)
+	@Column(length = 100)
 	private String password;
 	
 	@Column(nullable = false, length = 50)
@@ -44,6 +44,8 @@ public class User {
 	//DB는 RoleType이라는게 없다.
 	@Enumerated(EnumType.STRING)
 	private RoleType role; //Enum을 쓰는게 좋다. //ADMIN,USER
+	
+	private String oauth;
 	
 	@CreationTimestamp // 시간이 자동 입력
 	private Timestamp createDate;
