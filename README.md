@@ -1,5 +1,5 @@
 # JBJ BLOG <br>  
-스프링 부트 버전 2.3.2 <br>
+<h5><b>스프링 부트 버전 2.3.2</b></h5> <br>
 자바 버전 8 <br>
 템플릿 엔진 JSP <br>
 의존성 <br>
@@ -27,10 +27,8 @@ Json통신 <br>
      카카오로부터 받을 정보 : profile정보(필수), email(선택)<br>
      6. 로그인 요청 주소(GET방식)<br>
      https://kauth.kakao.com/oauth/authorize?                                    client_id=484f55741806beff230ae6b248a9666b&redirect_uri=http://localhost:8000/auth/kakao/callback&response_type=code <br>
-
      7. 응답받은 코드<br>
-     http://localhost:8000/auth/kakao/callback?code=mJF_MgiRsEumW70Kt-YPcse80ITrAutlLmg9Zh60Hi9P0mUq_kkMsR43tvmaKgOmrdRl9QorDKcAAAF1gvn5VA<br>
-
+     http://localhost:8000/auth/kakao/callback?code=mJF_MgiRsEumW70Kt-  YPcse80ITrAutlLmg9Zh60Hi9P0mUq_kkMsR43tvmaKgOmrdRl9QorDKcAAAF1gvn5VA<br>
      8. 토큰 발급 요청 주소(POST방식) - http body에 데이터를 전달 (4가지 데이터)<br>
      요청 주소 : https://kauth.kakao.com/oauth/token<br>
      헤더 값<br>
@@ -40,7 +38,6 @@ Json통신 <br>
      client_id=484f55741806beff230ae6b248a9666b<br>
      redirect_uri=http://localhost:8000/auth/kakao/callback<br>
      code={동적}<br>
-
      9. 토큰을 통한 사용자 정보 조회 (POST)<br>
      요청 주소 : https;//kapi.kakao.com/v2/user/me<br>
      헤더 값<br>
