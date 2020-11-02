@@ -3,6 +3,7 @@
 <b>스프링 부트 버전 2.3.2</b><br>
 <b>자바 버전 8</b><br>
 <b>템플릿 엔진 JSP</b> <br>
+<b>bootstrap</b><br>
 <b>의존성</b> <br>
 -lombok <br>
 -spring JPA <br>
