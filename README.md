@@ -55,6 +55,6 @@
 <img src="https://user-images.githubusercontent.com/61040284/97848808-fc1a0280-1d34-11eb-8bdd-226516b461d7.png" >
 <img src="https://user-images.githubusercontent.com/61040284/97848813-fd4b2f80-1d34-11eb-8dda-77155f651a62.png" >
 <h4>게시판(댓글)</h4><br>
-<img src="https://user-images.githubusercontent.com/61040284/97426200-7540e080-1956-11eb-8644-859e18fc43ed.png"><br>
+<img src="https://user-images.githubusercontent.com/61040284/98092365-ed188900-1ec9-11eb-8831-bd4527cca5c5.png"><br>
 <h4>글수정</h4><br>
 <img src="https://user-images.githubusercontent.com/61040284/97426208-770aa400-1956-11eb-8329-8f8f263095ed.png">
