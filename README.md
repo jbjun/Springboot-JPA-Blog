@@ -50,6 +50,7 @@
      Content-type: application/x-www-form-urlencoded;charset=utf-8<br>
 #### 메인화면
 <img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png">   
+
 #### 로그인, 카카오로그인, 회원가입
 <img src="https://user-images.githubusercontent.com/61040284/97847956-be68aa00-1d33-11eb-8840-ccfed98c57cb.png" width="400" height="150">
 <img src="https://user-images.githubusercontent.com/61040284/97848130-f7a11a00-1d33-11eb-8b35-63162888c14e.png" width="400" height="400">
