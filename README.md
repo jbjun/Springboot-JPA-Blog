@@ -1,15 +1,15 @@
-# JBJ BLOG <br>
-##개발환경
-     스프링 부트 버전 2.3.2
-     자바 버전 8
-     템플릿 엔진 JSP
-     bootstrap
-     의존성
-       -lombok
-       -spring JPA
-       -mysql
-     Json통신
-       -query이용(ajax요청) 
+# JBJ BLOG
+##개발환경  
+     스프링 부트 버전 2.3.2  
+     자바 버전 8  
+     템플릿 엔진 JSP  
+     bootstrap  
+     의존성  
+       -lombok  
+       -spring JPA  
+       -mysql  
+     Json통신  
+       -query이용(ajax요청)   
 <h3>구현 내용</h3> <br>
 <b>회원가입, 회원정보변경, 글(쓰기,수정,삭제,댓글달기, 댓글삭제)(수정, 삭제는 본인 글만)</b> <br><br>
 <b>스프링 시큐리티 로그인</b><br>
