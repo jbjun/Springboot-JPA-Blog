@@ -49,15 +49,15 @@
      Authorization: Bearer {ACCESS_TOKEN}
      Content-type: application/x-www-form-urlencoded;charset=utf-8<br>
 #### 메인화면
-<img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png"><br>
+<img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png">
 #### 로그인, 카카오로그인, 회원가입
 <img src="https://user-images.githubusercontent.com/61040284/97847956-be68aa00-1d33-11eb-8840-ccfed98c57cb.png" width="400" height="150">
 <img src="https://user-images.githubusercontent.com/61040284/97848130-f7a11a00-1d33-11eb-8b35-63162888c14e.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/61040284/97427498-fcdb1f00-1957-11eb-9f2a-e31c4dd5ad7b.png" width="400" height="150"> <br>
+<img src="https://user-images.githubusercontent.com/61040284/97427498-fcdb1f00-1957-11eb-9f2a-e31c4dd5ad7b.png" width="400" height="150">
 #### 회원정보수정, 카카오회원정보수정
 <img src="https://user-images.githubusercontent.com/61040284/97848808-fc1a0280-1d34-11eb-8bdd-226516b461d7.png" >
 <img src="https://user-images.githubusercontent.com/61040284/97848813-fd4b2f80-1d34-11eb-8dda-77155f651a62.png" >
 #### 게시판(댓글)
-<img src="https://user-images.githubusercontent.com/61040284/98092365-ed188900-1ec9-11eb-8831-bd4527cca5c5.png"><br>
+<img src="https://user-images.githubusercontent.com/61040284/98092365-ed188900-1ec9-11eb-8831-bd4527cca5c5.png">
 #### 글수정
 <img src="https://user-images.githubusercontent.com/61040284/97426208-770aa400-1956-11eb-8329-8f8f263095ed.png">
