@@ -5,7 +5,7 @@
      bootstrap  
      의존성  
        -lombok  
-       -spring JPA  
+       -spring Data JPA  
        -mysql  
      Json통신  
        -query이용(ajax요청)   
