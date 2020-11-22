@@ -23,9 +23,9 @@ import lombok.NoArgsConstructor;
 @Data
 @Entity
 public class Reply {
-	@Id //Primary key
-	@GeneratedValue(strategy = GenerationType.IDENTITY) // 프로젝트에서 연결된 DB의 넘버링 전략을 따라간다.
-	private int id; // 시퀀스, auto_increment
+	@Id 
+	@GeneratedValue(strategy = GenerationType.IDENTITY) 
+	private int id; 
 
 	@Column(nullable = false, length = 200)
 	private String content;

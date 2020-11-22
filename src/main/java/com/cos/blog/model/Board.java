@@ -39,15 +39,15 @@ public class Board {
 	private String title;
 	
 	@Lob
-	private String content; // 섬머노트 라이브러리 <html>태그가 섞여서 디자인이 됨.
+	private String content; 
 	
-	private int count; //조회수
+	private int count; 
 	
-	@ManyToOne(fetch = FetchType.EAGER) //Many = Many, User = One
+	@ManyToOne(fetch = FetchType.EAGER) 
 	@JoinColumn(name="userId")
-	private User user; //DB는 오브젝트를 저장할 수 없다.
+	private User user;
 	
-	@OneToMany(mappedBy="board", fetch=FetchType.EAGER)//mappedBy 연관관계의 주인이 아님. DB에 쿼리 넣기 X
+	@OneToMany(mappedBy="board", fetch=FetchType.EAGER)
 	@JsonIgnoreProperties({"board"})
 	@OrderBy("id desc")
 	private List<Reply> replys;

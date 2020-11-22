@@ -20,12 +20,11 @@ public class BoardController {
 	private BoardService boardService;
 	
 	
-	// 컨트롤로에서 세션을 어떻게 찾는지? 
-	// @AuthenticationPrincipal PrincipalDetail principal
+	
 	@GetMapping({"", "/"})
 	public String index(Model model, @PageableDefault(size=3, sort="id", direction = Sort.Direction.DESC)Pageable pageable) {
 		model.addAttribute("boards", boardService.글목록(pageable));
-		return "index"; //viewResolver 작동
+		return "index"; 
 	}
 	
 	@GetMapping("/board/{id}")
