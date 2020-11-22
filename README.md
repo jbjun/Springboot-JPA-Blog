@@ -10,8 +10,9 @@
      Json통신  
        -query이용(ajax요청)   
 ### 구현 내용 
-#### db
-<img src="https://user-images.githubusercontent.com/61040284/99908604-ee014580-2d26-11eb-8a84-8fef386f6e16.png">
+#### DB
+<img src="https://user-images.githubusercontent.com/61040284/99908604-ee014580-2d26-11eb-8a84-8fef386f6e16.png" width="250" height="200">   
+
 #### 1. 로그인, 회원가입, 회원정보변경   
 #### 2. 게시판
           -CRUD
