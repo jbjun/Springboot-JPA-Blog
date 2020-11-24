@@ -6,7 +6,8 @@
      의존성  
        -lombok  
        -spring Data JPA  
-       -mysql  
+     DB
+       -mysql
      Json통신  
        -query이용(ajax요청)   
 ### 구현 내용 
