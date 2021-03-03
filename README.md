@@ -23,35 +23,21 @@
      -로그인 안되면 글쓰기 기능 X 로그인 페이지로 이동
      -비밀번호 암호화
      -회원수정 시 강제 세션 부여 
-#### 4. 카카오 로그인 Oauth(라이브러리 사용 안하고 직접 구현)   
+#### 4. 카카오 로그인 Oauth(라이브러리 사용 안하고 직접 구현)  
      -카카오 로그인인지 db에 표시
      -최초로그인 후 로그인 누르면 자동로그인
-     1. 웹서버주소 ; http://localhost:8000
-     2. 클라이언트 키 : 484f55741806beff230ae6b248a9666b
-     3. 카카오 로그인 요청 주소 : http://localhost:8000/auth/kakao/callback
-     4. 카카오 로그아웃 요청 주소 : http://localhost:8000/auth/kakao/logout
+     1. 웹서버주소
+     2. 클라이언트 키 
+     3. 카카오 로그인 요청 주소 
+     4. 카카오 로그아웃 요청 주소 
      5. 카카오 동의 구성
      User 오브젝트 : id(번호), username, password, email
      카카오로부터 받을 정보 : profile정보(필수), email(선택)
-     6. 로그인 요청 주소(GET방식)
-     https://kauth.kakao.com/oauth/authorize?
-     client_id=484f55741806beff230ae6b248a9666b&redirect_uri=http://localhost:8000/auth/kakao/callback&response_type=code 
+     6. 로그인 요청 주소(GET방식) 
      7. 응답받은 코드  
-     http://localhost:8000/auth/kakao/callback?code=mJF_MgiRsEumW70Kt-  YPcse80ITrAutlLmg9Zh60Hi9P0mUq_kkMsR43tvmaKgOmrdRl9QorDKcAAAF1gvn5VA
      8. 토큰 발급 요청 주소(POST방식) - http body에 데이터를 전달 (4가지 데이터)
-     요청 주소 : https://kauth.kakao.com/oauth/token
-     헤더 값
-     application/x-www-form-urlencoded;charset=utf-8
-     바디 값
-     grant_type=authorization_code
-     client_id=484f55741806beff230ae6b248a9666b
-     redirect_uri=http://localhost:8000/auth/kakao/callback
-     code={동적}
      9. 토큰을 통한 사용자 정보 조회 (POST)
-     요청 주소 : https;//kapi.kakao.com/v2/user/me
-     헤더 값
-     Authorization: Bearer {ACCESS_TOKEN}
-     Content-type: application/x-www-form-urlencoded;charset=utf-8<br>
+     
 #### 메인화면
 <img src="https://user-images.githubusercontent.com/61040284/97426184-71ad5980-1956-11eb-99c1-5bae8296b3be.png">   
 
